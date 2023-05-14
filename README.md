@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adia-afrin-meghla-202736230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adia-afrin-meghla-202736230" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadia-afrin-meghla-202736230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adia-afrin-meghla-202736230" height="30" width="40" /></a>
 <a href="https://fb.com/sadiameghlaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadiameghlaa" height="30" width="40" /></a>
 <a href="https://instagram.com/sadia_meghla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadia_meghla" height="30" width="40" /></a>
 </p>
