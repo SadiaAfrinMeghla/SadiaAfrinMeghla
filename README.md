@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=000000&lines=Excellence+is+not+being+the+best,;+It+is+doing+the+best.)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 🙋, I'm Sadia Afrin.You can call me Meghla as well</h1>
 <h3 align="center">Visionary SQA Engineer to plan concepts for developing variety of projects</h3>
 
@@ -11,7 +14,7 @@
 
 - 👩‍💻 I’m currently working on **Manual testing ,Api testing , Performance Testing ,Automation testing**
 
-- 🤝 I’m looking to collaborate on **Software Automation Testing for**
+- 🤝 I’m looking to collaborate on **Software Automation Testing for testing API, web & Mobile platform**
 
 - 📧 You can reach me through **Email:sadiameghlaa@gmail.com or Phone:01751719925**
 
