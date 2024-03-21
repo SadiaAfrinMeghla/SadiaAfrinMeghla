@@ -4,7 +4,6 @@
 <h1 align="center">Hi 🙋, I'm Sadia Afrin.You can call me Meghla as well</h1>
 <h3 align="center">Visionary SQA Engineer to plan concepts for developing variety of projects</h3>
 
-![241765453-85cb9521-97c0-4a65-9358-7db8099fac7f](https://github.com/SadiaAfrinMeghla/SadiaAfrinMeghla/assets/60995246/6e29c014-6520-4a06-880a-eda37d4ce1ab)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiaafrinmeghla&label=Profile%20views&color=0e75b6&style=flat" alt="sadiaafrinmeghla" /> </p>
 
